@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+
+    <album>
+        <titulo>Nadie Sabe Lo Que Va a Pasar Mañana</titulo>
+        <artista>Bad Bunny</artista>
+        <genero>Trap Latino, Reggaeton</genero>
+        <fecha_publicacion>13/10/2023</fecha_publicacion>
+        <duracion>81:18</duracion>
+        <discografia>Rimas Entertainment</discografia>
+        <imagen>album1</imagen>
+        <canciones>
+            <cancion>
+                <titulo_cancion>nadie_sabe</titulo_cancion>
+                <escritor>Bad Bunny, Carlos Eleta Almarán</escritor>
+                <productor>Tainy, La Paciencia, Carlos López</productor>
+                <duracion_cancion>6:19</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>monaco</titulo_cancion>
+                <escritor>Bad Bunny</escritor>
+                <productor>Mag, La Paciencia, Smash David, Edsclusive, Argel</productor>
+                <duracion_cancion>4:27</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>fina</titulo_cancion>
+                <escritor>Bad Bunny, Young Miko, Tegui Calderón</escritor>
+                <productor>Mag, La Paciencia, Cuello extranjero, Smash David, Nico Baran, DJ Joe, Patrón, Argel</productor>
+                <duracion_cancion>3:36</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Hibiki</titulo_cancion>
+                <escritor>Bad Bunny, Gabriel Mora</escritor>
+                <productor>Tainy, La Paciencia, Hassi, Machael</productor>
+                <duracion_cancion>3:28</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Mr. October</titulo_cancion>
+                <escritor>Bad Bunny</escritor>
+                <productor>Mag, La Paciencia, Hydro, Sauceman 36, Stats</productor>
+                <duracion_cancion>3:09</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Cybertruck</titulo_cancion>
+                <escritor>Bad Bunny</escritor>
+                <productor>Mag, La Paciencia, Zazu</productor>
+                <duracion_cancion>3:11</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Vou 787</titulo_cancion>
+                <escritor>Bad Bunny, Tokischa, Madonna, Robert Pettibone</escritor>
+                <productor>Mag, La Paciencia</productor>
+                <duracion_cancion>2:03</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Seda</titulo_cancion>
+                <escritor>Bad Bunny, Bryant Myers</escritor>
+                <productor>Mag, La Paciencia, Chris Jedi, Gaby Music, Búho, Lanalizer</productor>
+                <duracion_cancion>3:10</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Gracias por Nada</titulo_cancion>
+                <escritor>Bad Bunny</escritor>
+                <productor>Mag, La Paciencia, Chris Jedi, Gaby Music</productor>
+                <duracion_cancion>2:57</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Teléfono Nuevo</titulo_cancion>
+                <escritor>Bad Bunny, Luar la L</escritor>
+                <productor>Mag, La Paciencia, Smash David, Argel</productor>
+                <duracion_cancion>5:54</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Baby Nueva</titulo_cancion>
+                <escritor>Bad Bunny</escritor>
+                <productor>Tainy, La Paciencia, Albert Hype</productor>
+                <duracion_cancion>4:00</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Mercedes Carota</titulo_cancion>
+                <escritor>Bad Bunny, Ángel Avilés</escritor>
+                <productor>Tainy, Mag, Smash David, Byrd</productor>
+                <duracion_cancion>3:22</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Los Pits</titulo_cancion>
+                <escritor>Bad Bunny</escritor>
+                <productor>Mag, La Paciencia, Smash David, Foreign Teck, Sean Turk, Only Hope</productor>
+                <duracion_cancion>4:10</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Vuelve Candy B</titulo_cancion>
+                <escritor>Bad Bunny</escritor>
+                <productor>Mag, La Paciencia, Mick Coogan, Aidan Cullen</productor>
+                <duracion_cancion>4:26</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Baticano</titulo_cancion>
+                <escritor>Bad Bunny</escritor>
+                <productor>Tainy, Mag, La Paciencia</productor>
+                <duracion_cancion>4:16</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>No Me Quiero Casar</titulo_cancion>
+                <escritor>Bad Bunny, Tegui Calderón, Yandel, Ricardo Garcia, Juan Orengo, Miguel Rodriguez, Francis Rivera</escritor>
+                <productor>Tainy, Mag, La Paciencia</productor>
+                <duracion_cancion>3:45</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Where She Goes</titulo_cancion>
+                <escritor>Bad Bunny, Marco Borrero</escritor>
+                <productor>Mag</productor>
+                <duracion_cancion>3:51</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Thunder y Lightning</titulo_cancion>
+                <escritor>Bad Bunny, Eladio Carrión</escritor>
+                <productor>Mag, La Paciencia</productor>
+                <duracion_cancion>3:37</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Perro Negro</titulo_cancion>
+                <escritor>Bad Bunny, Feid</escritor>
+                <productor>Mag, La Paciencia, Smash David, Argel, Digital Jet, Jon Mili, Frankie</productor>
+                <duracion_cancion>2:42</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Europa</titulo_cancion>
+                <escritor>Bad Bunny</escritor>
+                <productor>Tainy, La Paciencia</productor>
+                <duracion_cancion>0:11</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Acho PR</titulo_cancion>
+                <escritor>Bad Bunny, Arcangel, De La Guetto, Ñengo Flow, Julio Ramos, Norman Howell</escritor>
+                <productor>Tainy, Mag, La Paciencia, Mvsis</productor>
+                <duracion_cancion>5:59</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Un Preview</titulo_cancion>
+                <escritor>Bad Bunny</escritor>
+                <productor>Tainy, Mag, La Paciencia</productor>
+                <duracion_cancion>2:45</duracion_cancion>
+            </cancion>
+        </canciones>
+    </album>
+
+    <album>
+        <titulo>Colores</titulo>
+        <artista>J Balvin</artista>
+        <genero>Pop Latino, Reggaeton</genero>
+        <fecha_publicacion>19/3/2020</fecha_publicacion>
+        <duracion>28:52</duracion>
+        <discografia>Universal Music</discografia>
+        <imagen>album2</imagen>
+        <canciones>
+            <cancion>
+                <titulo_cancion>amarillo</titulo_cancion>
+                <escritor>J Balvin, Alejandro Ramírez, Dj Snake, Giordano Ashruf, Rashid Badloe</escritor>
+                <productor>Sky Rompiendo, DJ Snake, Afro Bros</productor>
+                <duracion_cancion>2:37</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>azul</titulo_cancion>
+                <escritor>J Balvin, Alejandro Ramírez, René Cano, Justin Quiles, Michael Brun, Jairo Bascope</escritor>
+                <productor>Sky Rompiendo, Michael Brun</productor>
+                <duracion_cancion>3:25</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Rojo</titulo_cancion>
+                <escritor>J Balvin, Alejandro Ramírez, Taiko, Justin Quiles, Luis Ángel O'Neill</escritor>
+                <productor>Sky Rompiendo, Taiko</productor>
+                <duracion_cancion>2:30</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Rosa</titulo_cancion>
+                <escritor>J Balvin, Alejandro Ramírez,  Diplo, Cano, Hernández, Kevyn Cruz, Jasper Helderman, Bas Van Daalen</escritor>
+                <productor>Diplo</productor>
+                <duracion_cancion>3:09</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Morado</titulo_cancion>
+                <escritor>J Balvin, Alejandro Ramírez</escritor>
+                <productor>Sky Rompiendo</productor>
+                <duracion_cancion>3:20</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Verde</titulo_cancion>
+                <escritor>J Balvin, Alejandro Ramírez, Ronald Spence</escritor>
+                <productor>Sky Rompiendo, Ronny J</productor>
+                <duracion_cancion>2:22</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Negro</titulo_cancion>
+                <escritor>J Balvin, Alejandro Ramírez,  Dee Mad, Keityn, King Doudou</escritor>
+                <productor>King Doudou, Dee Mad</productor>
+                <duracion_cancion>3:02</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Gris</titulo_cancion>
+                <escritor>J Balvin, Alejandro Ramírez,Justin Quiles, Cano, Brun</escritor>
+                <productor>Sky Rompiendo</productor>
+                <duracion_cancion>2:56</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Arcoíris</titulo_cancion>
+                <escritor>J Balvin, Alejandro Ramírez, Brun, Ajibade Oluwatosin</escritor>
+                <productor>Sky Rompiendo, Brun</productor>
+                <duracion_cancion>3:06</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Blanco</titulo_cancion>
+                <escritor>J Balvin, Alejandro Ramírez, Cano</escritor>
+                <productor>Sky Rompiendo, Dee Mad</productor>
+                <duracion_cancion>2:25</duracion_cancion>
+            </cancion>
+        </canciones>
+    </album>
+
+    <album>
+        <titulo>Different World</titulo>
+        <artista>Alan Walker</artista>
+        <genero>Electro House</genero>
+        <fecha_publicacion>14/12/2018</fecha_publicacion>
+        <duracion>43:02</duracion>
+        <discografia>Sony Music Entertainment</discografia>
+        <imagen>album3</imagen>
+        <canciones>
+            <cancion>
+                <titulo_cancion>intro</titulo_cancion>
+                <escritor>Alan Walker, Markus Arnbekk, Emelie Hollow, James Eriksen, Anna-Marie Kimber</escritor>
+                <productor>Alan Walker, Markus Arnbekk, James Njie</productor>
+                <duracion_cancion>1:16</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>lost_control</titulo_cancion>
+                <escritor>Alan Walker, Thomas Troelsen, Anders Frøen, Sorana Păcurar, Fredrik Borch Olsen, Magnus Martinsen</escritor>
+                <productor>Alan Walker, Big Fred, Magnify, Mood Melodies</productor>
+                <duracion_cancion>3:42</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>I Don't Wanna Go</titulo_cancion>
+                <escritor>Alan Walker, Edvard Normann, Kristoffer Haugen, Lars Rosness, Jesper Borgen, Fredrik Teo, Gunnar Greve Pettersen, Hollow, Øyvind Sauvik</escritor>
+                <productor>Alan Walker, Rosness, STATE</productor>
+                <duracion_cancion>2:41</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Lily</titulo_cancion>
+                <escritor>Alan Walker, Lars Rosness, Magnus Bertelsen, K-391, Didrik Håndlykken, Markus Arnbekk</escritor>
+                <productor>Alan Walker, K-391, Lars Rosness, Markus Arnbekk, Big Fred</productor>
+                <duracion_cancion>3:15</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Lonely</titulo_cancion>
+                <escritor>Alan Walker, Aoki, Fredrik Borch Olsen, James Eriksen, Jesper Borgen, Omar Noir Faal, Sauvik, Ella Marie Hætta Isaksen</escritor>
+                <productor>Alan Walker, Aoki, James Njie, Big Fred</productor>
+                <duracion_cancion>3:36</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Do It All for You</titulo_cancion>
+                <escritor>Alan Walker, Frøen, Markus Arnbekk, Jesper Borgen, Lars Rosness, Haugan, Normann,Jason Dean,Joseph Kirkland, Ryan Stewart</escritor>
+                <productor>Alan Walker, Markus Arnbekk, Mood Melodies, Lars Rosness, STATE</productor>
+                <duracion_cancion>2:54</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Different World</titulo_cancion>
+                <escritor>Alan Walker, Fredrik Borch Olsen, James Eriksen, Markus Arnbekk, G. Pettersen, Nilsen, Mengzhou Hu, Sara Hjellstrom, Bertelsen</escritor>
+                <productor>Alan Walker, Big Fred, Magnify, Mood Melodies</productor>
+                <duracion_cancion>3:22</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Interlude</titulo_cancion>
+                <escritor>Alan Walker, Markus Arnbekk, Jesper Borgen</escritor>
+                <productor>Alan Walker, Markus Arnbekk, Jesper Borgen</productor>
+                <duracion_cancion>1:19</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Sing Me to Sleep</titulo_cancion>
+                <escritor>Alan Walker, Jesper Borgen, Anders Frøen, G. Pettersen, Thomas La Verdi, Magnus Bertelsen, Iselin Solheim</escritor>
+                <productor>Alan Walker, Jesper Borgen, Mood Melodies</productor>
+                <duracion_cancion>3:07</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>All Falls Down</titulo_cancion>
+                <escritor>Alan Walker, Anders Frøen, Richard Boardman, Pablo Bowman, Daniel Boyle, Sarah Blanchard, Nicholas Gale</escritor>
+                <productor>Alan Walker, Mood Melodies, The Six, Gunnar Greve, TEK, Jenna Andrews, Alex Holmberg</productor>
+                <duracion_cancion>3:18</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Darkside</titulo_cancion>
+                <escritor>Alan Walker, Anders Frøen, Jesper Borgen, Lars Rosness, Markus Arnbekk, Fredrik Borch Olsen, G. Pettersen, La Verdi, Atle Pettersen, Jamie Stenzel, William Wiik Larsen, Andrew Frampton</escritor>
+                <productor>Alan Walker, Mood Melodies, Fredrik Borch Olsen, Mere Music</productor>
+                <duracion_cancion>3:31</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Alone</titulo_cancion>
+                <escritor>Alan Walker, Jesper Borgen, Anders Frøen, G. Pettersen, Jonnali Parmenius</escritor>
+                <productor>Alan Walker, Jesper Borgen, Mood Melodies, Gunnar Greve, Fredrik Borch Olsen</productor>
+                <duracion_cancion>2:40</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Diamond Heart</titulo_cancion>
+                <escritor>Alan Walker, Thomas Troelsen, Kristoffer Haugen, Edvard Normann, Anders Frøen, G. Pettersen, Yann Bargain, Victor Verpillat, Fredrik Borch Olsen, Sophia Somajo</escritor>
+                <productor>Alan Walker, Mood Melodies, Yann Bargain, Victor Verpillat, James Njie, Gunnar Greve, Big Fred, STATE</productor>
+                <duracion_cancion>4:00</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Faded(Interlude)</titulo_cancion>
+                <escritor>Alan Walker, Mengzhou Hu, G. Pettersen, Lars Rosness, Anders Frøen, Jesper Borgen, James Eriksen</escritor>
+                <productor>Alan Walker, Lars Rosness, Corsak, James Njie, Jesper Borgen, Mood Melodies</productor>
+                <duracion_cancion>0:41</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Faded</titulo_cancion>
+                <escritor>Alan Walker, Thomas Troelsen, Kristoffer Haugen, Edvard Normann, Anders Frøen, G. Pettersen, Yann Bargain, Victor Verpillat, Fredrik Borch Olsen, Sophia Somajo</escritor>
+                <productor>Alan Walker, Jesper Borgen, Anders Frøen, G, Pettersen</productor>
+                <duracion_cancion>3:32</duracion_cancion>
+            </cancion>
+        </canciones>
+    </album>
+
+    <album>
+        <titulo>Oasis</titulo>
+        <artista>J Balvin, Bad Bunny</artista>
+        <genero>Trap Latino, Reggaeton, Hip hop</genero>
+        <fecha_publicacion>28/6/2019</fecha_publicacion>
+        <duracion>31:03</duracion>
+        <discografia>Universal Latino</discografia>
+        <imagen>album4</imagen>
+        <canciones>
+            <cancion>
+                <titulo_cancion>mojaita</titulo_cancion>
+                <escritor>Bad Bunny, J Balvin, Eladio Carrión, Sky Rompiendo</escritor>
+                <productor>Sky Rompiendo</productor>
+                <duracion_cancion>3:07</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>yo_le_llego</titulo_cancion>
+                <escritor>Bad Bunny, J Balvin, Alberto Melendez, Tainy</escritor>
+                <productor>Albert Hype, Tainy</productor>
+                <duracion_cancion>4:09</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Cuidao por Ahí</titulo_cancion>
+                <escritor>Bad Bunny, J Balvin, Tainy, Jhayco</escritor>
+                <productor>Tainy</productor>
+                <duracion_cancion>3:18</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Qué Pretendes</titulo_cancion>
+                <escritor>Bad Bunny, J Balvin, Daniel Taborda, Sky Rompiendo</escritor>
+                <productor>Sky Rompiendo</productor>
+                <duracion_cancion>3:42</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>La Canción</titulo_cancion>
+                <escritor>Bad Bunny, J Balvin, José Arroyo, Gilbert Rodríguez, Sky Rompiendo</escritor>
+                <productor>Nicael Arroyo</productor>
+                <duracion_cancion>4:02</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Un Peso</titulo_cancion>
+                <escritor>Bad Bunny, J Balvin, Horacio Cantero, Tainy</escritor>
+                <productor>Tainy</productor>
+                <duracion_cancion>4:37</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Odio</titulo_cancion>
+                <escritor>Bad Bunny, J Balvin, Sky Rompiendo, Luián Malavé, Hector Ramos, Édgar Semper-Vargas, Xavier Semper-Vargas, Jhayco</escritor>
+                <productor>Sky Rompiendo, DJ Luian, Mambo Kingz</productor>
+                <duracion_cancion>4:30</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Como un Bebé</titulo_cancion>
+                <escritor>Bad Bunny, J Balvin, Mr Eazi, Legendury Beatz, Jhayco, Tainy, Sky Rompiendo, El Guincho</escritor>
+                <productor>Legendury Beatz</productor>
+                <duracion_cancion>3:38</duracion_cancion>
+            </cancion>
+        </canciones>
+    </album>
+
+    <album>
+        <titulo>Vice Versa</titulo>
+        <artista>Rauw Alejandro</artista>
+        <genero>Electro Pop, Reggaetón, Pop Latino</genero>
+        <fecha_publicacion>25/6/2021</fecha_publicacion>
+        <duracion>47:39</duracion>
+        <discografia>Sony Latina</discografia>
+        <imagen>album5</imagen>
+        <canciones>
+            <cancion>
+                <titulo_cancion>todo_de_ti</titulo_cancion>
+                <escritor>Rauw Alejandro, Duares, Colla, Sr. NaisGai, Rafa Pabón</escritor>
+                <productor>Hype Albert, Tainy</productor>
+                <duracion_cancion>3:19</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>sexo_virtual</titulo_cancion>
+                <escritor>Rauw Alejandro, Tainy, Emmanuel Sosa, Alberto Carlos Meléndez, Kenobi, Colla, Duares, Álvarito</escritor>
+                <productor>El Zorro, Sr. Naisgai</productor>
+                <duracion_cancion>3:28</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Nubes</titulo_cancion>
+                <escritor>Rauw Alejandro</escritor>
+                <productor>Caleb Calloway</productor>
+                <duracion_cancion>2:58</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Desesperados</titulo_cancion>
+                <escritor>Rauw Alejandro, Chencho, Jorge Cedeño Echevarría, Nino Karlo Segarra, Sr. NaisGai, Colla, Kenobi, Duares</escritor>
+                <productor>El Zorro, Dulce como Candy, Ninow Dímelo, Sr. Naisgai</productor>
+                <duracion_cancion>3:44</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>2/Catorce</titulo_cancion>
+                <escritor>Rauw Alejandro</escritor>
+                <productor>Sr. Naisgai</productor>
+                <duracion_cancion>3:25</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>ZzZz Aquel Nap</titulo_cancion>
+                <escritor>Rauw Alejandro</escritor>
+                <productor>Ortéez, El Zorro, Álvarito, Sr. Naisgai</productor>
+                <duracion_cancion>4:55</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Cúrame</titulo_cancion>
+                <escritor>Rauw Alejandro</escritor>
+                <productor>Kenobi, Charlie Guapo</productor>
+                <duracion_cancion>2:44</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Cosa Guapa</titulo_cancion>
+                <escritor>Rauw Alejandro, Lyanno, Eydren, Sr. Naisgai, Héctor C. López, Colla, Kenobi, Duares</escritor>
+                <productor>Eydren, Kenobi, El Zorro, Calloway, Sr. Naisgai</productor>
+                <duracion_cancion>4:15</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Desenfocao</titulo_cancion>
+                <escritor>Rauw Alejandro, Manuel Lara, Pabón, Kenobi, Colla, Duares, Tainy</escritor>
+                <productor>Lara Manu, Tainy</productor>
+                <duracion_cancion>2:50</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>¿Cuándo Fue?</titulo_cancion>
+                <escritor>Rauw Alejandro, Kenobi, Tainy, Colla, Duares, Jota Rosa</escritor>
+                <productor>Tainy</productor>
+                <duracion_cancion>2:48</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>La Old Skul</titulo_cancion>
+                <escritor>Rauw Alejandro</escritor>
+                <productor>El Zorro, Calloway</productor>
+                <duracion_cancion>3:34</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>¿Y Eso?</titulo_cancion>
+                <escritor>Rauw Alejandro, Tainy, Pabón, Kenobi, Colla, Duares, Álvarito, Jhay Cortez</escritor>
+                <productor>Tainy</productor>
+                <duracion_cancion>3:20</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Tengo un Pal</titulo_cancion>
+                <escritor>Rauw Alejandro, Duares, Colla, Fantoma</escritor>
+                <productor>Calloway, Fantasma</productor>
+                <duracion_cancion>3:15</duracion_cancion>
+            </cancion>
+            <cancion>
+                <titulo_cancion>Brazilera</titulo_cancion>
+                <escritor>Rauw Alejandro, Pabón, Anitta, Calloway, Kenobi, Colla, Duares, Álvarito</escritor>
+                <productor>El Zorro, Calloway</productor>
+                <duracion_cancion>3:04</duracion_cancion>
+            </cancion>
+        </canciones>
+    </album>
+
+</catalogo>
